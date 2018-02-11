@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_d2ae640dcd0239f5a3044662bd65d71ed307ac79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d4f2ef2efe458ec01db7f03b0187a2eab89b890e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\build\intermediates\transforms\dex\debug\folders\1000\2\VuforiaUnityPlayer_3ac9260331d3a9defbdee671cb72282909649ac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a4e926f0b46b038a7d1cac93bf0019a3dc80f7a">
+        <dex dex="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dbde2da0d2442eb8c1211b6116e875786ee9e054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="C:\Users\user\Documents\FirstAR\UnityPackageManager\FirsAR\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_0472412a48b443cc752d5a753c7726e1dac24adf\classes.dex" />
+    </item>
+
+</items>

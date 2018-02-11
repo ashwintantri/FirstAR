@@ -1,0 +1,7 @@
+#Sat Feb 03 12:02:52 IST 2018
+base.0=C\:\\Users\\user\\Documents\\FirstAR\\UnityPackageManager\\FirsAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d4f2ef2efe458ec01db7f03b0187a2eab89b890e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\user\\Documents\\FirstAR\\UnityPackageManager\\FirsAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dbde2da0d2442eb8c1211b6116e875786ee9e054\\classes.dex
+base.1=C\:\\Users\\user\\Documents\\FirstAR\\UnityPackageManager\\FirsAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dbde2da0d2442eb8c1211b6116e875786ee9e054
+file.0=C\:\\Users\\user\\Documents\\FirstAR\\UnityPackageManager\\FirsAR\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d4f2ef2efe458ec01db7f03b0187a2eab89b890e\\classes.dex
